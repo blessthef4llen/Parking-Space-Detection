@@ -32,6 +32,7 @@ The dataset consists of **cropped parking-space images** derived from polygon-ba
 
 ## Repo Structure
 
+```
 Parking-Space-Detection/
 │
 ├── data/
@@ -53,6 +54,7 @@ Parking-Space-Detection/
 │
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
@@ -128,7 +130,9 @@ The final dataset contains 903 cropped parking-space samples, organized by label
 ## Author
 
 Name: Han Htoo Zin
+
 CECS 456 – Fall 2025
+
 California State University, Long Beach
 
 ---
